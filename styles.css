@@ -1,0 +1,62 @@
+html, body {
+    height: 100%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: center;
+
+
+    padding-top: 1em;
+}
+body {
+background: linear-gradient(to bottom, #ff9900 0%, #b45a00 100%);
+display: table-cell;
+vertical-align: center;
+margin: auto; 
+
+}
+
+.header img {
+    height: 100px;
+    width: 100px;
+}
+.header {
+    position: relative;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: bold;
+    margin: auto;
+}
+div {
+    margin: auto;
+    text-align: center;
+    vertical-align: center;
+}
+article {
+    text-align: center;
+    margin: auto;
+    width: 65%;
+
+}
+ul {
+    list-style-type: none;
+}
+.navbar {
+    margin: 1em;
+    justify-content: center;
+    align-content: center;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+}
+a:link {
+    text-decoration: none;
+}
+
+#icon {
+    height: 50px;
+    width: 50px;
+
+}
