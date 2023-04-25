@@ -5,15 +5,12 @@ html, body {
     margin-right: auto;
     text-align: center;
     vertical-align: center;
-
-
     padding-top: 1em;
 }
 body {
 background: linear-gradient(to bottom, #ff9900 0%, #b45a00 100%);
 background-attachment: fixed;
 vertical-align: center;
-margin: auto; 
 
 }
 
@@ -26,10 +23,10 @@ margin: auto;
     color: rgb(0, 0, 0);
     font-size: 50px;
     font-weight: bold;
-    margin: auto;
+    
 }
 div {
-    margin: auto;
+    
     text-align: center;
     vertical-align: center;
 }
